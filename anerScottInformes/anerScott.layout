@@ -7,9 +7,19 @@
 			<Cursor1 position="291" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="trabajos.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="dataWarehouse.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1997" topLine="70" />
+			<Cursor1 position="1757" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="bicicletas.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7143" topLine="291" />
+		</Cursor>
+	</File>
+	<File name="informes.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1327" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="main.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
@@ -17,19 +27,9 @@
 			<Cursor1 position="3332" topLine="57" />
 		</Cursor>
 	</File>
-	<File name="informes.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="informes.c" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="608" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="informes.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2001" topLine="77" />
-		</Cursor>
-	</File>
-	<File name="dataWarehouse.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1757" topLine="11" />
+			<Cursor1 position="379" topLine="22" />
 		</Cursor>
 	</File>
 	<File name="bicicletas.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -37,9 +37,9 @@
 			<Cursor1 position="195" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="bicicletas.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="trabajos.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="7143" topLine="291" />
+			<Cursor1 position="1997" topLine="70" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

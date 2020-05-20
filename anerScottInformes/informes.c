@@ -21,7 +21,7 @@ int menuInformes()
     printf("b. informar bicicletas x tipo\n");
     printf("c. Bicicletas menor rodado\n");
     printf("d. informar bicicletas separadas x tipo\n");
-    printf("e. ---------------\n");
+    printf("e. trabajos x servicio y fecha\n");
     printf("f. ----------------\n");
     printf("g.  Salir\n");
 
@@ -56,10 +56,10 @@ void informar(eBicicleta vec[], int tamB, eTipo tiposB[], int tamTip, eColor tip
             informarBicicletasSeparadasXtipo(vec,tamB,tiposC,tamC,tiposB,tamTip,listaCli,tamCli);
             break;
         case 'e':
-
+            informarTrabajosxServicio(tiposT,tamTra,tipoServ,tamServ,listaCli,tamCli);
             break;
         case 'f':
-
+           // informarTrabajosxServicio(tiposT,tamTra,tipoServ,tamServ,listaCli,tamCli);
 
         case 'g':
             printf("Confirme salida: ");
@@ -117,7 +117,7 @@ void informarTrabajosxServicio (eTrabajo vec[], int tam, eServicio tipoServ[], i
 {
     int tipoServicio;
     int flag = 0;
-    int cantidad=0;
+    //int cantidad=0;
 
     system("cls");
     printf("***** Informar Trabajos por Tipo de Servicio *****\n");
@@ -136,10 +136,10 @@ void informarTrabajosxServicio (eTrabajo vec[], int tam, eServicio tipoServ[], i
             flag = 1;
 
         }
-        cantidad++;
+       // cantidad++;
     }
 
-     printf("\nhay %d trabajos realizados con este servicioo\n",cantidad);
+    // printf("\nhay %d trabajos realizados con este servicioo\n",cantidad);
 
     if(flag == 0)
     {

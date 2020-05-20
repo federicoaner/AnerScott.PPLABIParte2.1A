@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1589983813 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589916927 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\datawarehouse.h
+
+1589333218 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\validacion.h
+
+1589327667 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1589984116 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletas.h"
+	"dataWarehouse.h"
+	"validacion.h"
+	"trabajos.h"
+
+1589984110 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\bicicletas.h
+
+1589976439 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\trabajos.h
+
+1589976641 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589983308 c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\informes.h
+
+1589983529 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\anerscott\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589984116 source:c:\users\fede\desktop\anerscottinformes\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletas.h"
+	"dataWarehouse.h"
+	"validacion.h"
+	"trabajos.h"
+
+1589984110 c:\users\fede\desktop\anerscottinformes\bicicletas.h
+
+1589916927 c:\users\fede\desktop\anerscottinformes\datawarehouse.h
+
+1589333218 c:\users\fede\desktop\anerscottinformes\validacion.h
+
+1589976439 c:\users\fede\desktop\anerscottinformes\trabajos.h
+
+1589983529 source:c:\users\fede\desktop\anerscottinformes\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589983308 c:\users\fede\desktop\anerscottinformes\informes.h
+
+1589983813 source:c:\users\fede\desktop\anerscottinformes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589976641 source:c:\users\fede\desktop\anerscottinformes\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"bicicletas.h"
+	"trabajos.h"
+	"informes.h"
+
+1589327667 source:c:\users\fede\desktop\anerscottinformes\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
